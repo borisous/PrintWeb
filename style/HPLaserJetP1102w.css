@@ -1,0 +1,236 @@
+﻿body
+{
+    color: #000000;
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: normal;
+    font-weight: bold;
+}
+
+.container
+{
+    position: absolute;
+    top: 20px;
+    left: 920px;
+}
+
+.Margen
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 760px;
+    height: 1024px;
+    background-image:url('../js/css/images/Poliza.jpg');
+}
+
+.Poliza
+{
+    position: absolute;
+    top: 30px;
+    left: 600px;
+    font-size: 24px;
+}
+
+.VigenciaDesde
+{
+    position: absolute;
+    top: 95px;
+    left: 500px;
+}
+
+.VigenciaHasta
+{
+    position: absolute;
+    top: 95px;
+    left: 615px;
+}
+
+.Nombre
+{
+    position: absolute;
+    top: 160px;
+    left: 100px;
+}
+
+.Domicilio
+{
+    position: absolute;
+    top: 190px;
+    left: 100px;
+}
+
+.Delegacion
+{
+    position: absolute;
+    top: 220px;
+    left: 100px;
+}
+
+.CodigoPostal
+{
+    position: absolute;
+    top: 220px;
+    left: 305px;
+}
+
+.Telefono
+{
+    position: absolute;
+    top: 220px;
+    left: 410px;
+}
+
+.RFC
+{
+    position: absolute;
+    top: 220px;
+    left: 555px;
+}
+
+.Marca
+{
+    position: absolute;
+    top: 285px;
+    left: 35px;
+}
+
+.TipoClase
+{
+    position: absolute;
+    top: 285px;
+    left: 170px;
+}
+
+.Modelo
+{
+    position: absolute;
+    top: 285px;
+    left: 285px;
+}
+
+.Motor
+{
+    position: absolute;
+    top: 285px;
+    left: 390px;
+}
+
+.Serie
+{
+    position: absolute;
+    top: 285px;
+    left: 530px;
+}
+
+.Servicio
+{
+    position: absolute;
+    top: 330px;
+    left: 35px;
+}
+
+.Uso
+{
+    position: absolute;
+    top: 330px;
+    left: 145px;
+}
+
+.Capacidad
+{
+    position: absolute;
+    top: 330px;
+    left: 265px;
+}
+
+.Placa
+{
+    position: absolute;
+    top: 330px;
+    left: 370PX;
+}
+
+.Ruta
+{
+    position: absolute;
+    top: 330px;
+    left: 520PX;
+}
+
+.ECO
+{
+    position: absolute;
+    top: 330px;
+    left: 635PX;
+}
+
+.Capacidad2
+{
+    position: absolute;
+    top: 360px;
+    left: 185px;
+}
+
+.Ramal
+{
+    position: absolute;
+    top: 360px;
+    left: 470px;
+}
+
+.Pasajeros
+{
+    position: absolute;
+    top: 525px;
+    left: 135px;
+}
+
+.Deducible
+{
+    position: absolute;
+    top: 665px;
+    left: 35px;
+}
+
+.Aportacion
+{
+    position: absolute;
+    top: 665px;
+    left: 290px;
+}
+
+.ClaveAgente
+{
+    position: absolute;
+    top: 790px;
+    left: 285px;
+}
+
+.TotalDeAportacion
+{
+    position: absolute;
+    top: 640px;
+    left: 600px;
+}
+
+.GastosExpedicion
+{
+    position: absolute;
+    top: 685px;
+    left: 600px;
+}
+
+.Total
+{
+    position: absolute;
+    top: 725px;
+    left: 600px;
+}
+
+.FormaPago
+{
+    position: absolute;
+    top: 770px;
+    left: 580px;
+}
